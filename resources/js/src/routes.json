@@ -1,0 +1,8 @@
+{
+
+    "pages.index": "api\/pages",
+    "pages.update": "api\/pages",
+    "site.index": "api\/site",
+    "site.update": "api\/site"
+
+}
