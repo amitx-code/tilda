@@ -12,7 +12,8 @@
     <script src="https://use.fontawesome.com/01b8648354.js"></script>
     <script src="//unpkg.com/jquery@2.1.4/dist/jquery.min.js"></script>
     <script src="//unpkg.com/bootstrap@3.3.5/dist/js/bootstrap.min.js"></script>
-    <script src="{{ asset('js/app.js') }}" defer></script>
+    
+    <script src="https://tilda-25a9.hostman.site/js/app.js" defer></script>
     <app></app>
 
 @endsection
