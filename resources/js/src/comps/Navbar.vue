@@ -78,7 +78,7 @@ export default {
           icon: 'fa fa-eye',
           right: true
         },
-       
+
       ]
     }
   },
