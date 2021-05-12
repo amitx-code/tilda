@@ -27,7 +27,7 @@
     "dependencies": {
         "aammui-uploader": "^0.2.0",
         "bootstrap-vue": "^2.3.0",
-        "codemirror": "^5.55.0",
+        "codemirror": "^5.58.2",
         "hljs": "^6.2.3",
         "mockdate": "^2.0.5",
         "vue-codemirror-lite": "^1.0.4",
